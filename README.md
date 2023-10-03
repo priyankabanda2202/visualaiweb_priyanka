@@ -2,6 +2,9 @@
 about the web interface it will give idea
 
 
+   firstly this folder should be( renamed to  ic_visualai_web ) and visualai_react_ui (renamed to visual_ai_react_ui) and 
+visual_ai_react_ui should be under this folder  then steps to run as follows
+
 
 steps to run:
 
